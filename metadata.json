@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoSmart IoT - Energy Monitor",
+  "description": "A comprehensive smart home energy monitoring dashboard with real-time ESP32 data simulation, appliance-level breakdown, automated billing, and AI-driven energy insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
