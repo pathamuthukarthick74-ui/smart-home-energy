@@ -1,10 +1,10 @@
 
 import React, { useState, useEffect } from 'react';
 import { HashRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import Login from './components/Login';
-import Layout from './components/Layout';
-import Dashboard from './components/Dashboard';
-import Billing from './components/Billing';
+import Login from '../components/Login';
+import Layout from '../components/Layout';
+import Dashboard from '../components/Dashboard';
+import Billing from '../components/Billing';
 import { User } from './types';
 
 const App: React.FC = () => {
